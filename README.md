@@ -6,10 +6,6 @@
   Building useful software, exploring intelligent systems, and learning by shipping projects.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamparagoyal&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ## 👋 About Me
