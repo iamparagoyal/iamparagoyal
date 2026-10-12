@@ -95,47 +95,6 @@ A full-stack meeting workspace for exploring transcripts, summaries, action item
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">A modular snapshot of my public GitHub activity.</p>
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📈 Overview</h3>
-      <a href="https://github.com/iamparagoyal">
-        <img src="https://github-stats-extended.vercel.app/api?username=iamparagoyal&show_icons=true&hide_border=true&rank_icon=github&title_color=7c3aed&icon_color=7c3aed&theme=light_github#gh-light-mode-only" width="100%" alt="GitHub overview statistics in light mode" />
-        <img src="https://github-stats-extended.vercel.app/api?username=iamparagoyal&show_icons=true&hide_border=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa&theme=dark_github#gh-dark-mode-only" width="100%" alt="GitHub overview statistics in dark mode" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>💻 Top Languages</h3>
-      <a href="https://github.com/iamparagoyal?tab=repositories">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamparagoyal&layout=compact&langs_count=8&hide_border=true&title_color=7c3aed&theme=light_github#gh-light-mode-only" width="100%" alt="Most-used programming languages in light mode" />
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamparagoyal&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&theme=dark_github#gh-dark-mode-only" width="100%" alt="Most-used programming languages in dark mode" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/iamparagoyal?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  &nbsp;
-  <a href="https://github.com/iamparagoyal?tab=stars"><img src="https://img.shields.io/badge/Starred%20Projects-24243e?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects" /></a>
-</p>
-
-<p align="center"><sub>Cards refresh according to the stats provider's cache. These are image-based cards, not interactive dashboards.</sub></p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/iamparagoyal">View my GitHub contribution history, repositories, and recent activity ↗</a>
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
