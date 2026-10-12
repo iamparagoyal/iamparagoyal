@@ -98,20 +98,20 @@ A full-stack meeting workspace for exploring transcripts, summaries, action item
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamparagoyal&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamparagoyal&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=iamparagoyal&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamparagoyal&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamparagoyal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=iamparagoyal&theme=tokyonight" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamparagoyal&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <a href="https://github.com/iamparagoyal">View my GitHub contribution history, recent activity, and repositories ↗</a>
 </p>
 
 ---
